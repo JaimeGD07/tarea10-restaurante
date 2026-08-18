@@ -2,7 +2,6 @@
 
 API RESTful desarrollada con **Laravel 12** y **Eloquent ORM** para centralizar la gestión del menú del restaurante "La Buena Mesa". Permite operaciones CRUD completas sobre los elementos del menú, además de filtrado por categoría.
 
-Proyecto desarrollado como actividad práctica del bootcamp **Kodigo Full Stack Jr.**
 
 ## 🧱 Stack Técnico
 
@@ -177,7 +176,3 @@ curl -s -X DELETE http://localhost:8010/api/menu-items/10
 | 204    | Elemento eliminado exitosamente (DELETE)       |
 | 404    | Elemento no encontrado                          |
 | 422    | Error de validación                             |
-
-## 👤 Autor
-
-Jaime Ernesto Gil Díaz — Kodigo Full Stack Jr. Bootcamp
